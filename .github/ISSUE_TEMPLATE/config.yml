@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation
+    url: https://your-docs-url.com
+    about: Read the documentation for detailed usage
+  - name: 🚀 Feature Requests
+    url: https://github.com/Vlad774/simple-test-repo/discussions
+    about: Suggest features or improvements here
